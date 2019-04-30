@@ -1,0 +1,47 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "make.sure.it",
+      "nativeLanguage": "hi"
+    },
+    "jhipsterVersion": "5.8.2",
+    "applicationType": "monolith",
+    "baseName": "JhispterBugTracker",
+    "packageName": "make.sure.it",
+    "packageFolder": "make/sure/it",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "YzM3ZjYyZTkwMWQ3OTdmYjNmMmZkNWNmODU5YmE3ZWZlOWI2NTk3NWE5OGQ1ZWFlOGE4MGQ1Njg3OTJlNDFiMDFiYTI0OTExZDlhMGVkYjVlMjlmYzA5MGI2MTBjYzc2Yzk3YWZiZmZjYWQ5ODZkMzI2OTM0ZDI5M2ZlZGRiMTk=",
+    "clientFramework": "react",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "gatling",
+      "cucumber",
+      "protractor"
+    ],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "hi",
+    "languages": [
+      "hi",
+      "fr",
+      "it",
+      "es"
+    ]
+  }
+}
